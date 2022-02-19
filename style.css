@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar-custom {
+    background-color: orange;
+}
+.container-padding{
+    padding: 90px 0 50px 0;
+}
+.title-content-text{
+    color: orange;
+}
+.background-lightgoldenrodyellow{
+    background-color: lightgoldenrodyellow;
+}
+.background-yellow{
+    background-color: yellow;
+}
+.background-lightsalmon{
+    background-color: lightsalmon;
+}
+.background-orange{
+    background-color: orange;
+}
+.bottom-color{
+    border-color: orange;
+}
